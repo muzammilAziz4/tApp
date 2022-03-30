@@ -1,0 +1,6 @@
+C:\Users\user1\Desktop\TennisClub\TClub\TClub\bin\Debug\TClub.exe.config
+C:\Users\user1\Desktop\TennisClub\TClub\TClub\bin\Debug\TClub.exe
+C:\Users\user1\Desktop\TennisClub\TClub\TClub\bin\Debug\TClub.pdb
+C:\Users\user1\Desktop\TennisClub\TClub\TClub\obj\Debug\TClub.exe
+C:\Users\user1\Desktop\TennisClub\TClub\TClub\obj\Debug\TClub.pdb
+C:\Users\user1\Desktop\TennisClub\TClub\TClub\obj\Debug\TClub.csprojResolveAssemblyReference.cache
